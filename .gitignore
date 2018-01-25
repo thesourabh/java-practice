@@ -1,0 +1,9 @@
+bin/
+.metadata/
+*.zip
+*.rar
+*.jpg
+*.png
+*.gif
+*.bmp
+*.class
